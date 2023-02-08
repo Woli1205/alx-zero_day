@@ -1,2 +1,2 @@
 My first readme
-New Progrsmming class
+New Programming class
